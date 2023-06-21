@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+body {
+    background: url(https://img.pikbest.com/backgrounds/20190919/complex-information-that-is-in-digital-form-green-background-v_1557124jpg!f305cw);
+    background-size: cover;
+    color: rgb(197, 186, 29);
+}
+
+.Registration-form {
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    transform: translate(-505);
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(18, 255, 235);
+}
